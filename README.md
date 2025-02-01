@@ -15,6 +15,8 @@
 -651310352 กีรติ เกตุวงษ์ : Game Designer https://github.com/KeeratiKEERATI
 
 
-Game Design Presentation V0.1 https://www.canva.com/design/DAGbJTGNy5Q/_5U24qfgTclpL1dDlhR0Xw/edit
+Game Design Presentation V0.0.1 https://www.canva.com/design/DAGbJTGNy5Q/_5U24qfgTclpL1dDlhR0Xw/edit
 
-Game Design Presentation V0.2 https://www.canva.com/design/DAGcb2B61qA/qyzc2Hq9BJpgptQi3_i7WA/edit?utm_content=DAGcb2B61qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Game Design Presentation V0.0.2 https://www.canva.com/design/DAGcb2B61qA/qyzc2Hq9BJpgptQi3_i7WA/edit?utm_content=DAGcb2B61qA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Game Design Presentation V0.0.3 https://www.canva.com/design/DAGdxbO7DbU/6SuMDwtK74lAk23N2VuGHg/edit?utm_content=DAGdxbO7DbU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
